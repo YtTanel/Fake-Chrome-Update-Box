@@ -1,5 +1,9 @@
-# FAKE CHROME UPDATE SCRIPT
+# Fake CHROME Update Script
 Fake chrome update script made in PowerShell
 
-# HOW TO RUN
-Download script and run it, put it in Task Scheduler to frustrate scammers lol
+# How to Run
+Download script and run it:
+```
+& '.\Fake Chrome Update Script.ps1'
+```
+Put it in Task Scheduler to frustrate scammers lol
