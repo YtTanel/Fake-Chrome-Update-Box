@@ -1,6 +1,9 @@
 # Fake CHROME Update Script
 Fake chrome update script made in PowerShell
 
+![image](https://github.com/user-attachments/assets/ca37cdbe-5d8b-4593-aedf-e5e634a012c4)
+
+
 # How to Run
 Download script and run it:
 ```
